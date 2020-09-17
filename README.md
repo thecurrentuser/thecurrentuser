@@ -1,6 +1,6 @@
 # 👨‍💻 João Felipe
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thecurrentuser)](https://github.com/thecurrentuser)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoffnascimento)](https://github.com/joaoffnascimento)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-nascimento-596ab6156/)](https://www.linkedin.com/in/joaoffnascimento/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/joaoffnascimento)](https://t.me/joaoffnascimento)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoffnascimento@gmail.com)](mailto:joaoffnascimento@gmail.com)
