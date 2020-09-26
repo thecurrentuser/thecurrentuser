@@ -32,15 +32,13 @@ Tech in computer networks, currently studying Information Systems and a future S
   <summary> <b> Know more about </b> <i>(Click here to expand)</i> </summary>
   <br>
 
-  ## Quick overview
-* GitHub stats:  
+<h2 align="center"> Github status:</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoffnascimento&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoffnascimento&langs_count=5" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=joaoffnascimento&show_icons=true&line_height=27" alt="My github stats" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=joaoffnascimento&show_icons=true&line_height=40" alt="My github stats" />
 </a>  
 
 </details>
