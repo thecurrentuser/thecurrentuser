@@ -15,9 +15,7 @@
 
 Tech in computer networks, currently studying Information Systems and a future Software Engineer ;D
 
-- ⚡ Dev Techs: Java, Spring, Javascript, Node.js.
-- ⚡ Infra Techs: ABNT NBR 14565, Microsoft/Linux/Unix Servers and Users, Cisco IOS.
-- 📚 Studying: Clean Code and Clean Architecture, TypeScript, Docker and more about NodeJS ecosystem.
+
 
 
 <h2 align="left"> 📫 How to reach me:</h2>
@@ -28,8 +26,23 @@ Tech in computer networks, currently studying Information Systems and a future S
 
 ---
 
+<div>
 <details>
-  <summary> <b> Know more about </b> <i>(Click here to expand)</i> </summary>
+  <summary> <b>More about me</b> <i>(Click here to expand)</i> </summary>
+  <br>
+
+- ⚡ Dev Techs: Java, Spring, Javascript, Node.js.
+- ⚡ Infra Techs: ABNT NBR 14565, Microsoft/Linux/Unix Servers and Users, Cisco IOS.
+- 📚 Studying: Clean Code and Clean Architecture, TypeScript, Docker and more about NodeJS ecosystem.
+
+</details>
+</div>
+
+---
+
+<div>
+<details>
+  <summary> <b> know more about my contribuitions on git platform</b> <i>(Click here to expand)</i> </summary>
   <br>
 
 <h2 align="center"> Github status:</h2>
@@ -42,3 +55,4 @@ Tech in computer networks, currently studying Information Systems and a future S
 </a>  
 
 </details>
+</div>
