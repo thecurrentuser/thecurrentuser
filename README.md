@@ -38,8 +38,6 @@ Tech in computer networks, currently studying Information Systems and a future S
 </details>
 </div>
 
----
-
 <div>
 <details>
   <summary> <b> know more about my contribuitions on git platform</b> <i>(Click here to expand)</i> </summary>
