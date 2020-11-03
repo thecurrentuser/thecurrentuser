@@ -1,22 +1,12 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/joaoffnascimento/joaoffnascimento/master/img/fan-1.gif" alt="Fan" align="center">
-</div>
+<h1 align="center">Welcome! I'm João Nascimento 👨‍💻</h1>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/joaoffnascimento/joaoffnascimento/master/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
+Tech in computer networks, Backend Developer, currently studying Information Systems and a future Software Engineer ;D
 
-<h1 align="center">👨‍💻  to my GitHub profile !!!</h1>
+<summary> <b>More about me</b> </summary>
 
-<h1 align="center">I'm João Nascimento</h1>
-
-
-<h2 align="left">Hello! 👋</h2>
-
-Tech in computer networks, currently studying Information Systems and a future Software Engineer ;D
-
-
-
+- ⚡ Dev Techs: Java, Spring, Javascript, Node.js.
+- ⚡ Infra Techs: ABNT NBR 14565, Microsoft/Linux/Unix Servers and Users, Cisco IOS.
+- 📚 Studying: Clean Code and Clean Architecture, TypeScript, Docker and more about NodeJS ecosystem.
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
@@ -28,29 +18,14 @@ Tech in computer networks, currently studying Information Systems and a future S
 
 <div>
 <details>
-  <summary> <b>More about me</b> <i>(Click here to expand)</i> </summary>
+  <summary> <b> Most used languages</b> <i>(Click here to expand)</i> </summary>
   <br>
 
-- ⚡ Dev Techs: Java, Spring, Javascript, Node.js.
-- ⚡ Infra Techs: ABNT NBR 14565, Microsoft/Linux/Unix Servers and Users, Cisco IOS.
-- 📚 Studying: Clean Code and Clean Architecture, TypeScript, Docker and more about NodeJS ecosystem.
-
-</details>
-</div>
-
-<div>
-<details>
-  <summary> <b> know more about my contribuitions on git platform</b> <i>(Click here to expand)</i> </summary>
-  <br>
-
-<h2 align="center"> Github status:</h2>
+<h2 align="left"> Github status:</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoffnascimento&langs_count=5" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=joaoffnascimento&show_icons=true&line_height=40" alt="My github stats" />
-</a>  
 
 </details>
 </div>
