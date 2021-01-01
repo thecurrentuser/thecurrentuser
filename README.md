@@ -1,28 +1,21 @@
-<h1 align="center">Welcome! I'm João Nascimento 👨‍💻</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h2 align="center">Welcome!</h2>
+
+<h2 align="Center">I'm João Nascimento 🗺️</h2>
 
 Tech in computer networks, Backend Developer, currently studying Information Systems and a future Software Engineer ;D
 
-<summary> <b>More about me</b> </summary>
+<p align="left"> ⚡ Dev Techs: Javascript, Typescript, NodeJS, Java, Spring Ecosystem</p>
 
-- ⚡ Dev Techs: Java, Spring, Javascript, Node.js.
-- ⚡ Infra Techs: ABNT NBR 14565, Microsoft/Linux/Unix Servers and Users, Cisco IOS.
-- 📚 Studying: Clean Code and Clean Architecture, TypeScript, Docker and more about NodeJS ecosystem.
+<p align="left"> ⚡ Database Techs: MongoDB, SQL Server</p>
+
+<p align="left"> ⚡ Infra Techs: ABNT NBR 14565, Microsoft/Linux/Unix Servers, Cisco IOS.</p>
+
+<p align="left"> 📚 Studying: Clean Code and Clean Architecture, TypeScript, Docker and more about NodeJS ecosystem.</p>
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-nascimento-596ab6156/)](https://www.linkedin.com/in/joaoffnascimento/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/joaoffnascimento)](https://t.me/joaoffnascimento)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoffnascimento@gmail.com)](mailto:joaoffnascimento@gmail.com)
-
----
-
-<div>
-<details>
-  <summary> <b> Most used languages</b> <i>(Click here to expand)</i> </summary>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoffnascimento&langs_count=5" />
-</a>
-
-</details>
-</div>
+[![Linkedin Badge](https://icon-icons.com/icons2/1/PNG/32/sociallinkedin_member_70.png)](https://www.linkedin.com/in/joaoffnascimento/)
+[![Telegram Badge](https://icon-icons.com/icons2/2148/PNG/32/telegram_icon_131945.png)](https://t.me/joaoffnascimento)
+[![Gmail Badge](https://icon-icons.com/icons2/933/PNG/32/gmail-logo_icon-icons.com_72739.png)](mailto:joaoffnascimento@gmail.com)
