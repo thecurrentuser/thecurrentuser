@@ -53,6 +53,7 @@ Software Engineer; Backend Developer; graduated in information systems from IFS 
 [![Telegram Badge](https://icon-icons.com/icons2/555/PNG/32/telegram_icon-icons.com_53603.png)](https://t.me/joaoffnascimento)
 [![Gmail Badge](https://icon-icons.com/icons2/272/PNG/32/Gmail_29991.png)](mailto:joaoffnascimento@gmail.com)
 
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoffnascimento&" alt="joaoffnascimento"/></p>
 
