@@ -30,7 +30,7 @@ Actually a tech leader of a team of developers at Quero Delivery, i have about *
 
 ➢ Experience in creation of unit, integration, contract and load tests with **JEST** and **mocha/chai**
 
-➢ knowledge's of software architecture:
+➢ Knowledge's of software architecture:
 
 - **SOLID** & **Design Patterns**
 - **Hexagonal Architecture** & **Clean Architecture**
