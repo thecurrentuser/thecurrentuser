@@ -52,12 +52,12 @@ Actually a tech leader of a team of developers at Quero Delivery, i have about *
 [<img align="left" height="85px" width="85px" alt="Quero Delivery" src="https://media.licdn.com/dms/image/D4D0BAQFnX-gChGzxtA/company-logo_200_200/0/1690198336714/querodelivery_logo?e=1726099200&v=beta&t=aOCHfLL5tDTr0U8skG-SpTJlTCFpWEEpAbTJdu7rr7s"/>](https://querodelivery.com/)
 
 **Senior Software Engineer** \
-[**Quero Delivery**](https://marata.com.br/) • Full-time \
+[**Quero Delivery**](https://querodelivery.com/) • Full-time \
 Languages & Techs: `NodeJS`, `Javascript`, `Typescript`, `MongoDB`, `KAFKA`\
 Jan 2023 - Present · 1 yr 6 mos
 <br/>
 
-[<img align="left" height="85px" width="85px" alt="Conta Azul" src="https://media.licdn.com/dms/image/C4D0BAQFjwoQsyPmK7g/company-logo_200_200/0/1648773201868?e=1726099200&v=beta&t=HnJkn6joMueAyoe__va7ehUlTmTbD2ESwQTwXuwzxHY"/>](https://mova.vc/)
+[<img align="left" height="85px" width="85px" alt="Conta Azul" src="https://media.licdn.com/dms/image/C4D0BAQFjwoQsyPmK7g/company-logo_200_200/0/1648773201868?e=1726099200&v=beta&t=HnJkn6joMueAyoe__va7ehUlTmTbD2ESwQTwXuwzxHY"/>](https://ca.contaazul.com/)
 
 **Mid-Level Backend Software Engineer** \
 [**Conta Azul**](https://ca.contaazul.com/) • Full-time \
